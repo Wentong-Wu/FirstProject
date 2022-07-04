@@ -1,4 +1,4 @@
-# FirstProject
+# Hopium Studio
 Hopium Studio - First Project
 
 Morgan Ali Jones- Art and Assets
